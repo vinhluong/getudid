@@ -5,7 +5,7 @@
     <key>PayloadContent</key>
     <dict>
         <key>URL</key>
-        <string>https://getudidcencz.herokuapp.com/processes_data.php</string>
+        <string>https://cen-ios.github.io/udid/processes_data.php</string>
     <key>DeviceAttributes</key>
     <array>
         <string>UDID</string>
@@ -26,7 +26,7 @@
 <key>PayloadUUID</key>
 <string>BDD0F593-5B98-47FF-A0A4-4B98E30CE451</string>
 <key>PayloadIdentifier</key>
-<string>getudidcencz.herokuapp.com.getUDID</string>
+<string>cen-ios.github.io/udid.getUDID</string>
 <key>PayloadDescription</key>
 <string>Hãy Lấy Udid Để Cài App Pubg Hack No Jb Và Gửi Cho Cen IOS </string>
 <key>PayloadType</key>
